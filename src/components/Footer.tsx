@@ -15,15 +15,15 @@ const Footer = () => {
               WhisperWynd is an interactive storytelling platform that uses AI to help users explore and create magical stories and characters.
             </p>
             <div className="flex space-x-4 mt-4">
-              <a href="#" className="text-whisperwynd-medium-gray hover:text-whisperwynd-purple transition-colors">
+              <a href="/" className="text-whisperwynd-medium-gray hover:text-whisperwynd-purple transition-colors">
                 <Twitter className="h-5 w-5" />
                 <span className="sr-only">Twitter</span>
               </a>
-              <a href="#" className="text-whisperwynd-medium-gray hover:text-whisperwynd-purple transition-colors">
+              <a href="/" className="text-whisperwynd-medium-gray hover:text-whisperwynd-purple transition-colors">
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
               </a>
-              <a href="#" className="text-whisperwynd-medium-gray hover:text-whisperwynd-purple transition-colors">
+              <a href="/" className="text-whisperwynd-medium-gray hover:text-whisperwynd-purple transition-colors">
                 <Mail className="h-5 w-5" />
                 <span className="sr-only">Email</span>
               </a>

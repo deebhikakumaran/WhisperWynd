@@ -129,7 +129,7 @@ const About = () => {
                       <BookOpen className="h-6 w-6" />
                     </div>
                     <p className="ml-3 text-whisperwynd-medium-gray">
-                      <span className="font-medium text-whisperwynd-dark-gray">NiceGUI</span> - 
+                      <span className="font-medium text-whisperwynd-dark-gray">React</span> - 
                       For building responsive and interactive user interfaces
                     </p>
                   </li>
